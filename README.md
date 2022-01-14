@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">James Ferry</a>! 
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <h4 align='center'>
@@ -27,8 +27,8 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
-<br>🔸 BackEnd - Node, Express, Laravel, RoR
+<br>🔸 FrontEnd - React.js, Vue.js, Typescript, Rest API
+<br>🔸 BackEnd - Node.js, Express, Laravel, MySQL, Redis, MongoDB, Python
 <br>🔸 AWS and MLOPS
 <p>
 
