@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  FullStack Engineer 
+  Blockchain Security Engineer
 </h4>
 
 <!-- <p align="center">
