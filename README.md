@@ -30,10 +30,6 @@ I enjoy finding critical bugs. Sometimes I take part in Code4Rena contests for b
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brown-qs&theme=github_dark" alt="brown-qs" align = "center"/></p>
-
-
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brown-qs&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="corasphinx" /></p>
 
