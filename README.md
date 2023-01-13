@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  FullStack Engineer 
+  Blockchain Security Engineer
 </h4>
 
 <!-- <p align="center">
@@ -19,13 +19,19 @@
 I started programming at the age of 15, graduated with Bachelor degrees in Computer Science, and have been working professionally as a software engineer 👨‍💻 since then.
 
 My main focus is on Smart Contract Audit, including traditional technologies from Web 2(both frontend and backend).
-I enjoy finding critical bugs. Sometimes I take part in Code4Rena contests for bounties.
+I enjoy finding critical bugs. Every week I take part in Code4Rena and Sherlock contests for bounties.
+
+One of my side-skills are algorithm. I won 2nd place in Codechef contest.
+https://www.codechef.com/rankings/START69D?itemsPerPage=100&order=asc&page=1&sortBy=rank
+
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<br>🔸 Blockchain - Solidity, Defi, NFT, IPFS, SubGraph, Slither, Mythril
+<br>🔸 Blockchain - Solidity, Rust, Cairo, Move, Defi, NFT, IPFS, SubGraph, CosmosSDK
+<br>🔸 Development Tools - Hardhat, Foundry, Truffle, Brownie
+<br>🔸 Audit Tools - Slither, Mythril
 <br>🔸 FrontEnd - React.js, Vue.js, Typescript, Rest API
-<br>🔸 BackEnd - Node.js, Express, Laravel, MySQL, Redis, MongoDB
+<br>🔸 BackEnd - Node.js, Express, Laravel, MySQL, Redis, MongoDB, Golang, Python
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
@@ -44,7 +50,7 @@ I enjoy finding critical bugs. Sometimes I take part in Code4Rena contests for b
 
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brown-qs&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="James Wu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brown-qs&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
